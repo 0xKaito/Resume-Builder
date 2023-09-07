@@ -17,9 +17,6 @@ function Header() {
           Make your own resume. <span>It's free</span>
         </p>
       </div>
-      <div className={styles.right}>
-        <img src={resumeSvg} alt="Resume" />
-      </div>
     </div>
   );
 }
